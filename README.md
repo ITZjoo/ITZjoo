@@ -25,7 +25,7 @@ const imam = {
   focus:     ["Web Apps", "Mobile Apps", "Component Libraries"],
   stack:     ["Vue 3", "React", "Flutter", "TypeScript"],
   currently: "Building MAIN Koperasi — integrated cooperative management platform",
-  contact:   "imambprasojo@gmail.com",
+  contact:   "ITZjoo@gmail.com",
 }
 ```
 
@@ -35,15 +35,15 @@ const imam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imambprasojo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=ffffff&ring_color=22C55E" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=ITZjoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=ffffff&ring_color=22C55E" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imambprasojo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=ffffff&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZjoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=ffffff&langs_count=8" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=imambprasojo&theme=tokyonight&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=ffffff&dates=888888" width="49%" />
+<img src="https://streak-stats.demolab.com?user=ITZjoo&theme=tokyonight&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=ffffff&dates=888888" width="49%" />
 
 </div>
 
@@ -53,7 +53,7 @@ const imam = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=imambprasojo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ITZjoo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
@@ -63,14 +63,14 @@ const imam = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imambprasojo&bg_color=0D1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true&area_color=22C55E" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITZjoo&bg_color=0D1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true&area_color=22C55E" width="100%" />
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/imambprasojo">
-  <img src="https://raw.githubusercontent.com/imambprasojo/imambprasojo/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<a href="https://github.com/ITZjoo">
+  <img src="https://raw.githubusercontent.com/ITZjoo/ITZjoo/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </a>
 
 </div>
@@ -131,7 +131,7 @@ const imam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=imambprasojo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=ffffff&layout=compact" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ITZjoo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=ffffff&layout=compact" width="60%" />
 
 </div>
 
@@ -141,13 +141,13 @@ const imam = {
 
 ### 📬 Connect
 
-[![Email](https://img.shields.io/badge/Email-imambprasojo%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imambprasojo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-imambprasojo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imambprasojo)
+[![Email](https://img.shields.io/badge/Email-ITZjoo%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ITZjoo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ITZjoo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ITZjoo)
 [![Location](https://img.shields.io/badge/📍-Telkom%20University%2C%20Bandung-22C55E?style=for-the-badge)](https://telkomuniversity.ac.id)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=imambprasojo&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ITZjoo&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
