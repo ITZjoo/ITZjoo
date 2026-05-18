@@ -46,17 +46,20 @@ const imam = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITZjoo&theme=tokyonight" height="175" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITZjoo&theme=tokyonight" height="175" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ITZjoo&theme=tokyonight" height="175" />
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ITZjoo&theme=tokyonight" width="100%" />
 
-<br/>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ITZjoo&theme=tokyonight" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ITZjoo&theme=tokyonight&utcOffset=7" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ITZjoo&theme=tokyonight" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ITZjoo&theme=tokyonight" height="175" />
+
+</div>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ITZjoo&theme=tokyonight&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="65%" />
 
@@ -74,9 +77,21 @@ const imam = {
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITZjoo&bg_color=0D1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true&area_color=22C55E20&custom_title=Contribution%20Activity" width="100%" />
+
+</div>
+
+---
+
 ## 🌐 3D Contribution Graph
 
 <div align="center">
+
+> ⚙️ **Auto-generated** via GitHub Actions — akan muncul setelah workflow pertama kali berjalan.
 
 <img src="https://raw.githubusercontent.com/ITZjoo/ITZjoo/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 
@@ -87,6 +102,8 @@ const imam = {
 ## 🐍 Contribution Snake
 
 <div align="center">
+
+> ⚙️ **Auto-generated** via GitHub Actions — akan muncul setelah workflow pertama kali berjalan.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ITZjoo/ITZjoo/output/github-contribution-grid-snake-dark.svg" />
