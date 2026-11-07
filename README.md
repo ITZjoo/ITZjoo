@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img src="assets/header-light.svg" width="100%" alt="Imam Budi Prasojo. Software Engineer, Bandung, Indonesia. Building web and mobile products for retail, healthcare and cooperatives, focused on offline-first apps and reusable component libraries." />
+  <img src="assets/header-light.svg" width="100%" alt="Imam Budi Prasojo. Software Engineer. Building web and mobile products for retail, healthcare and cooperatives, focused on offline-first apps and reusable component libraries." />
 </picture>
 
 ### Selected work
